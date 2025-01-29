@@ -22,6 +22,10 @@ Thanks to visit this site, please consider enhance this book with some awesome t
 
 # Network
 
+
+
 * [Network Basics for Hackers](https://github.com/M0G3H/Articles/blob/main/Network%20Basics%20for%20Hackers.pdf)
 
 # Mobile Penetration Testing 
+
+* [Android Security Internals](https://github.com/M0G3H/Articles/blob/main/Android%20Security%20Internals.pdf)
