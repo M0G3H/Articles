@@ -22,6 +22,7 @@ Thanks to visit this site, please consider enhance this book with some awesome t
 * [zseano's methodology](https://github.com/M0G3H/Articles/blob/main/zseano's%20methodology.pdf)
 * [WSTG](https://github.com/M0G3H/Articles/blob/main/wstg-v4.1.pdf)
 * [Top10_Web_Hack_Tech](https://github.com/M0G3H/Articles/blob/main/Top10_Web_Hack_Tech.pdf)
+* [The Hacker Playbook](https://github.com/M0G3H/Articles/blob/main/The%20Hacker%20Playbook%202%20Practical%20Guide%20To%20Penetration%20Testing%20By%20Peter%20Kim.pdf)
 
 # Secure Coding
 
