@@ -13,11 +13,15 @@ Thanks to visit this site, please consider enhance this book with some awesome t
 
 * [Mastering Web Attacks](https://github.com/M0G3H/Articles/blob/main/Mastering%20Web%20Attacks.pdf)
 * [The_Hackers_Codex_Modern_Web_Application_Attacks-compressed](https://github.com/M0G3H/Articles/blob/main/The_Hackers_Codex_Modern_Web_Application_Attacks-compressed.pdf)
+* [w101](https://github.com/M0G3H/Articles/blob/main/w101.pdf)
+* [web_application_advanced_hacking](https://github.com/M0G3H/Articles/blob/main/web_application_advanced_hacking.pdf)
 
 # Secure Coding
 
 * [Secure Coding ASP](https://github.com/M0G3H/Articles/blob/main/Secure%20Coding%20ASP.pdf)
 
 # Network
+
+* [Network Basics for Hackers](https://github.com/M0G3H/Articles/blob/main/Network%20Basics%20for%20Hackers.pdf)
 
 # Mobile Penetration Testing 
