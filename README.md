@@ -9,12 +9,17 @@ Thanks to visit this site, please consider enhance this book with some awesome t
 
 ### **Usage: Just use the search bar at the upper or navigate through the sections of the left zone. Enjoy it** :blush:&#x20;
 
+# Red Teaming
+
+* [RTFM(Red Team Field Manual)](https://github.com/M0G3H/Articles/blob/main/RTFM(Red%20Team%20Field%20Manual).pdf)
+
 # Web Penetration Testing 
 
 * [Mastering Web Attacks](https://github.com/M0G3H/Articles/blob/main/Mastering%20Web%20Attacks.pdf)
 * [The_Hackers_Codex_Modern_Web_Application_Attacks-compressed](https://github.com/M0G3H/Articles/blob/main/The_Hackers_Codex_Modern_Web_Application_Attacks-compressed.pdf)
 * [w101](https://github.com/M0G3H/Articles/blob/main/w101.pdf)
 * [web_application_advanced_hacking](https://github.com/M0G3H/Articles/blob/main/web_application_advanced_hacking.pdf)
+* [zseano's methodology](https://github.com/M0G3H/Articles/blob/main/zseano's%20methodology.pdf)
 
 # Secure Coding
 
