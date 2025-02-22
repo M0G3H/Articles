@@ -44,3 +44,8 @@ Thanks to visit this site, please consider enhance this book with some awesome t
 
 * [api security in action](https://github.com/M0G3H/Articles/blob/main/api-security-in-action.pdf)
 * [Hacking APIs](https://github.com/M0G3H/Articles/blob/main/Hacking%20APIs%20-%20Early%20Access.pdf)
+
+# Programming
+
+* [JavaScript]
+  * [JavaScript For Hackers](https://github.com/M0G3H/Articles/blob/main/Gareth_Heyes_JavaScript_for_hackers_Learn_to_think_like_a_hacker.pdf)
