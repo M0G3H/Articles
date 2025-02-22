@@ -38,3 +38,8 @@ Thanks to visit this site, please consider enhance this book with some awesome t
 # Mobile Penetration Testing 
 
 * [Android Security Internals](https://github.com/M0G3H/Articles/blob/main/Android%20Security%20Internals.pdf)
+
+# API Hacking
+
+*[api security in action](https://github.com/M0G3H/Articles/blob/main/api-security-in-action.pdf)
+*[Hacking APIs](https://github.com/M0G3H/Articles/blob/main/Hacking%20APIs%20-%20Early%20Access.pdf)
