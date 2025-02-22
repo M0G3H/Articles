@@ -49,3 +49,6 @@ Thanks to visit this site, please consider enhance this book with some awesome t
 
 * JavaScript
   * [JavaScript For Hackers](https://github.com/M0G3H/Articles/blob/main/Gareth_Heyes_JavaScript_for_hackers_Learn_to_think_like_a_hacker.pdf)
+ 
+# Bug Bounty
+* [100 Bug Bounty tips](https://github.com/M0G3H/Articles/blob/main/bounty_tips_100%2B.pdf)
