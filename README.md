@@ -36,6 +36,7 @@ Thanks to visit this site, please consider enhance this book with some awesome t
 * [CCNA](https://github.com/M0G3H/Articles/blob/main/CCNA.pdf)
 * [Http Final](https://github.com/M0G3H/Articles/blob/main/HTTP-Final.pdf)
 * [Linux Firewalls](https://github.com/M0G3H/Articles/blob/main/Linux%20Firewalls.pdf)
+* [Network Warrior](https://github.com/M0G3H/Articles/blob/main/Network%20Warrior%202nd%20Edition-www.EBooksWorld.ir.pdf)
 
 # Mobile Penetration Testing 
 
