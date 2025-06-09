@@ -35,6 +35,7 @@ Thanks to visit this site, please consider enhance this book with some awesome t
 * [ghost-in-the-wires-kevin-mitnick](https://github.com/M0G3H/Articles/blob/main/ghost-in-the-wires-kevin-mitnick_%5B%40iBlackCube%5D.pdf)
 * [CCNA](https://github.com/M0G3H/Articles/blob/main/CCNA.pdf)
 * [Http Final](https://github.com/M0G3H/Articles/blob/main/HTTP-Final.pdf)
+* [Linux Firewalls](https://github.com/M0G3H/Articles/blob/main/Linux%20Firewalls.pdf)
 
 # Mobile Penetration Testing 
 
